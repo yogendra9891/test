@@ -1,0 +1,18 @@
+{
+  "quoteId": {
+    "store_id": 1
+  },
+  "product": {
+    "product_id": 581,
+    "sku": "E108",
+    "qty": 21
+  },
+
+  "customer": {
+    "customer_id": 637
+  },
+
+  "errorId": {
+    "store_id": 100
+  }
+}
